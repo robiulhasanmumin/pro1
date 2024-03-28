@@ -4,4 +4,6 @@ body{
 }
 p{
   text-align: center;
+  background-color: skyblue;
+  color: tomato;
 }
